@@ -1,4 +1,4 @@
 {
   "pattern": "**/*.@(css|js|json)",
-  "ignore": "**/manifest.json"
+  "ignore": "**/*.css"
 }
